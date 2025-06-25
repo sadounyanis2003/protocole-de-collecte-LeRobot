@@ -1,0 +1,75 @@
+{
+  "codebase_version": "v2.1",
+  "robot_type": "UR11",
+  "fps": 20,
+  "control_frequency": 20,
+  "cameras": [
+    {
+      "id": 234322303360,
+      "position": "gripper"
+    },
+    {
+      "id": 242422302403,
+      "position": "static_scene"
+    }
+  ],
+  "total_episodes": 11,
+  "total_frames": 589,
+  "total_tasks": 0,
+  "total_videos": 22,
+  "splits": {
+    "train": "0:N"
+  },
+  "camera_keys": [
+    "cam_gripper",
+    "cam_scene"
+  ],
+  "data_path": "data/chunk-000",
+  "video_path": "videos/chunk-000",
+  "features": {
+    "observation.state": {
+      "dtype": "float32",
+      "shape": [
+        6
+      ]
+    },
+    "action": {
+      "dtype": "float32",
+      "shape": [
+        6
+      ]
+    },
+    "timestamp": {
+      "dtype": "float64",
+      "shape": []
+    },
+    "ee_pose": {
+      "dtype": "float32",
+      "shape": [
+        7
+      ]
+    },
+    "ee_velocity": {
+      "dtype": "float32",
+      "shape": [
+        6
+      ]
+    },
+    "gripper_state": {
+      "dtype": "float32",
+      "shape": [
+        1
+      ]
+    },
+    "robot_obs": {
+      "dtype": "float32",
+      "shape": [
+        18
+      ]
+    },
+    "cameras": {
+      "dtype": "object",
+      "shape": []
+    }
+  }
+}

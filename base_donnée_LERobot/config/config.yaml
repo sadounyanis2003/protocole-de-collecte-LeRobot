@@ -1,0 +1,9 @@
+robot_type: UR10
+fps: 20
+control_frequency: 20
+cameras:
+  - id: 234322303360
+    position: gripper
+  - id: 242422302403
+    position: static_scene
+codebase_version: v2.1

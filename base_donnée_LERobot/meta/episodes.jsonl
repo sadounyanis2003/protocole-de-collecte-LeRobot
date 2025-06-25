@@ -1,0 +1,11 @@
+{"episode_index": 0, "tasks": ["jgc"], "length": 17, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
+{"episode_index": 1, "tasks": ["gf"], "length": 17, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
+{"episode_index": 2, "tasks": ["trou"], "length": 131, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
+{"episode_index": 3, "tasks": ["gf"], "length": 113, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
+{"episode_index": 4, "tasks": ["gf"], "length": 32, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
+{"episode_index": 5, "tasks": ["jgc"], "length": 18, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
+{"episode_index": 6, "tasks": ["gf"], "length": 18, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
+{"episode_index": 7, "tasks": ["gf"], "length": 17, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
+{"episode_index": 8, "tasks": ["trou"], "length": 124, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
+{"episode_index": 9, "tasks": ["jgc"], "length": 57, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
+{"episode_index": 10, "tasks": ["trou"], "length": 45, "success": true, "cameras": ["cam_gripper", "cam_scene"]}
